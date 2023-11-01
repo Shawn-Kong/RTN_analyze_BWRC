@@ -1,0 +1,1 @@
+## main_TimeDomain.py and main_PSD.py are 2 files that are used to extract time domain properties(magnitude+time constant) and frequency domain properties(PSD) respectively. 
